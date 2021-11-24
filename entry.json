@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"exit.json#entry_S"
+                 "value":"exit#entry_S"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"exit.json#entry_S"
+                 "value":"exit#entry_S"
                 }],
          "type":"tilelayer",
          "visible":true,
