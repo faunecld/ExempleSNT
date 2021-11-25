@@ -194,7 +194,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":33,
          "x":0,
          "y":0
@@ -206,7 +206,7 @@
          "name":"wall",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":33,
          "x":0,
          "y":0
@@ -218,7 +218,7 @@
          "name":"stairs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":33,
          "x":0,
          "y":0
@@ -230,7 +230,7 @@
          "name":"furnitures",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":33,
          "x":0,
          "y":0
@@ -242,7 +242,7 @@
          "name":"details",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":33,
          "x":0,
          "y":0
