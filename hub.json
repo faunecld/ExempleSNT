@@ -356,13 +356,13 @@
         {
          "columns":8,
          "firstgid":959,
-         "image":"src\/assets\/[Base]BaseChip_pipo.png",
-         "imageheight":4256,
+         "image":"src\/assets\/ExempleSNT-Tileset1.png",
+         "imageheight":192,
          "imagewidth":256,
          "margin":0,
-         "name":"rpg",
+         "name":"redBlue",
          "spacing":0,
-         "tilecount":0,
+         "tilecount":48,
          "tileheight":32,
          "tilewidth":32
         }],
