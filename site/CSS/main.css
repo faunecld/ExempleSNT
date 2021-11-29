@@ -89,7 +89,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 199px;
-  left: 616px;
+  left: 1087px;
   border: 3px solid rgba(35,255,0,1);
   overflow: hidden;
 }
@@ -111,7 +111,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 199px;
-  left: 528px;
+  left: 999px;
   border: 3px solid rgba(35,255,0,1);
   overflow: hidden;
 }
@@ -122,7 +122,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 199px;
-  left: 440px;
+  left: 911px;
   border: 3px solid rgba(35,255,0,1);
   overflow: hidden;
 }
@@ -133,7 +133,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 199px;
-  left: 352px;
+  left: 823px;
   border: 3px solid rgba(35,255,0,1);
   overflow: hidden;
 }
@@ -141,59 +141,72 @@ body {
   width: 348px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 813px;
-  left: 309px;
+  top: 814px;
+  left: 295px;
   font-family: Roboto;
   font-weight: Regular;
   font-size: 48px;
   opacity: 1;
-  text-align: left;
+  text-align: center;
 }
 .v17_19 {
   width: 261px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 275px;
-  left: 380px;
+  top: 269px;
+  left: 360px;
   font-family: Roboto;
   font-weight: Regular;
   font-size: 48px;
   opacity: 1;
-  text-align: left;
+  text-align: center;
 }
 .v17_20 {
   width: 261px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 579px;
-  left: 503px;
+  top: 586px;
+  left: 426px;
   font-family: Roboto;
   font-weight: Regular;
   font-size: 48px;
   opacity: 1;
-  text-align: left;
+  text-align: center;
 }
 .v17_21 {
   width: 261px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 139px;
-  left: 593px;
+  top: 245px;
+  left: 840px;
   font-family: Roboto;
   font-weight: Regular;
   font-size: 48px;
   opacity: 1;
-  text-align: left;
+  text-align: center;
 }
 .v17_18 {
   width: 385px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 571px;
-  left: 686px;
+  top: 570px;
+  left: 720px;
   font-family: Roboto;
   font-weight: Regular;
   font-size: 48px;
   opacity: 1;
-  text-align: left;
+  text-align: center;
+}
+.v23_2 {
+  width: 100px;
+  height: 100px;
+  background: url("../images/v23_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 112px;
+  left: 615px;
+  overflow: hidden;
 }
