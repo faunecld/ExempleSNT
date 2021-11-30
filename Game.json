@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/site\/HTML\/bravo.html"
+                 "value":"site\/HTML\/bravo.html"
                 }],
          "type":"tilelayer",
          "visible":true,
