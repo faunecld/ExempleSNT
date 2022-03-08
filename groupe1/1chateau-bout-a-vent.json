@@ -92,7 +92,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"pageWeb\/HTML\/page2.html"
+                 "value":"pageWeb\/HTML\/page1.html"
                 }],
          "type":"tilelayer",
          "visible":true,
