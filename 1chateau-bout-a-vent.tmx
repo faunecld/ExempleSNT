@@ -6,6 +6,9 @@
  <tileset firstgid="1" source="src/assets/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo.tsx"/>
  <tileset firstgid="1065" source="src/assets/Pipoya RPG Tileset 32x32/eau.tsx"/>
  <layer id="9" name="start" width="30" height="30">
+  <properties>
+   <property name="startLayer" type="bool" value="true"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
