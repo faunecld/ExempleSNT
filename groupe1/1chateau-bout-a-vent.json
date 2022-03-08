@@ -129,13 +129,13 @@
         {
          "columns":6,
          "firstgid":1257,
-         "image":"src\/assets\/Special_Zones.png",
+         "image":"..\/src\/assets\/Pipoya RPG Tileset 32x32\/Special_Zones.png",
          "imageheight":68,
          "imagewidth":204,
          "margin":1,
          "name":"Special_Zones",
          "spacing":2,
-         "tilecount":1,
+         "tilecount":12,
          "tileheight":32,
          "tiles":[
                 {
