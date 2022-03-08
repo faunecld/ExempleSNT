@@ -84,13 +84,13 @@
         {
          "columns":6,
          "firstgid":1065,
-         "image":"src\/assets\/Special_Zones.png",
+         "image":"..\/src\/assets\/Special_Zones.png",
          "imageheight":68,
          "imagewidth":204,
          "margin":1,
          "name":"Special_Zones",
          "spacing":2,
-         "tilecount":0,
+         "tilecount":12,
          "tileheight":32,
          "tilewidth":32
         }],

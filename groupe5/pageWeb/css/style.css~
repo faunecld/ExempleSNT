@@ -1,0 +1,236 @@
+/* -------------------------------------------
+	-- Feuille de Style CSS pour les 3 pages --
+	------------------------------------------- */
+
+/* Chargement des polices */
+/* Polices de caractère open source disponibles sur https://www.font-police.com */
+
+@font-face {
+   font-family: albam;
+   src: url(../fonts/ALBAM.TTF);
+}
+
+@font-face {
+   font-family: albas;
+   src: url(../fonts/ALBAS.TTF);
+}
+
+@font-face {
+   font-family: domestic_manners;
+   src: url(../fonts/Domestic_Manners.ttf);
+}
+
+@font-face {
+   font-family: barethos;
+   src: url(../fonts/barethos.ttf);
+}
+
+@font-face {
+   font-family: bubler-one;
+   src: url(../fonts/bubbler-one.ttf);
+}
+
+@font-face {
+   font-family: amatic-bold;
+   src: url(../fonts/amatic-bold.ttf);
+   font-weight: bold;
+}
+
+
+/* Initialisation des balises */
+
+body {
+   margin: 0;
+   font-family: bubler-one;
+   max-width: 800px;
+   margin: 0 auto;
+}
+
+h1, p {
+   margin: 0;
+}
+
+ul {
+   list-style-type: none;
+   padding: 0;
+   margin: 0;
+}
+
+
+a {
+   text-decoration: none;
+   color: black;
+}
+
+
+/* Entête commun à toutes les pages */
+
+.entete {
+   background-color: rgb(103, 185, 144);
+   display: flex;
+   flex-wrap: wrap;
+   padding: 10px 20px;
+}
+
+.logo {
+   display: block;
+   margin: 2px;
+}
+
+/* bloc titre et menu superposés, le logo étant à gauche
+de ce bloc */
+.titre-menu {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   padding: 0 10px;
+}
+
+.titre {
+   font-family: bubler-one, sans-serif;
+   font-size: 4.4em;
+   font-weight: bold;
+   text-align: right;
+   margin: auto;
+}
+
+
+/* barre de navigation principale */
+
+.menu {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.menu-item {
+	font-family: albam;
+   font-size: 1.9em;
+   margin: 0 10px;
+}
+
+.menu a {
+   color: #eee;
+   display: block;
+   padding: 4px 4px 4px 4px;
+}
+
+.menu a:hover {
+	font-family: albas;
+ 
+}
+
+.menu-select {
+	font-family: albas;
+	color: black;
+   /*color: rgb(190, 50, 0);*/
+   padding: 4px;
+   display: block;
+}
+
+
+/* Contenu principal de toutes les pages */
+
+.principal {
+   padding: 10px 20px;
+}
+
+
+/* Page d'accueil */
+
+.illust-art {
+   float: left;
+   margin-right: 10px;
+   margin-bottom: 10px;
+}
+
+.lettrine::first-letter {
+   font-family: amatic-bold, sans-serif;
+   font-weight: bold;
+   font-size: 50px;
+   _font-weight: bold;
+   margin-right: 4px;
+}
+
+.presentation {
+   margin-top: 1em;
+}
+
+
+/* Page de participation */
+
+.content-participer {
+   display: inline-flex;
+   flex-wrap: wrap;
+}
+
+.table {
+	width: 100%;
+}
+
+.td1 {
+	width: 60%;
+}
+
+.text-box {
+	margin-left: 20px;
+	margin-top: 50px;
+	align-content: flex-start;
+}
+
+.fieldset {
+	display: block;
+	width: 450px;
+   margin-top: 30px;
+   border:2px solid rgb(103, 185, 144);
+}
+
+.legend-font {
+	font-family: domestic_manners;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgb(103, 185, 144);
+}
+
+.div-bouton {
+}
+
+.bouton-soumettre {
+	display: block;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	width: 120px;
+}
+
+/* Page de description de la journée */
+
+.colonne {
+	display: flex;
+	flex-direction: column;
+	float: left;
+   width: 23%;
+   height: 600px;
+   margin: 1%;
+}
+
+.colonne h2 {
+	font-family: domestic_manners;
+	font-weight: bold;
+   text-align: center;
+   font-size: 30px;
+   color: rgb(103, 185, 144);
+}
+
+.colonne-grise {
+	background-color: rgb(213, 213, 213);
+}
+
+.img-illustration {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    height: 120px;
+    margin-bottom: 30px;
+}

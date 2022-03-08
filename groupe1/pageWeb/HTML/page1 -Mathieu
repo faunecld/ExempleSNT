@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+   <title>Château de Boutavent</title>
+   <meta charset="utf-8">
+   <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+   <header class="entete">
+      <div class="">
+         <h1 class="titre">Château de Boutavent</h1>
+         <nav>
+         </nav>
+      </div>
+   </header>
+   <main class="">
+      <br>
+      <p class="">
+        le chateau de Boutavent est situé à Iffendic, il a été édifié sur un éperon rocheux au Moyen-Age. Le domaine s'étend sur plus de deux hectares composés d'un château, d'un massif forestier de Paimpont et de l'étend de Boutavent  </p>
+      <br>
+      
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ch%C3%A2teau_de_Boutavant_%C3%A0_Cortambert_%282%29.jpg/800px-Ch%C3%A2teau_de_Boutavant_%C3%A0_Cortambert_%282%29.jpg" alt="" width=80% class="illust-art" />
+     <p class="">
+         Ce qui est transmis à une personne, une collectivité, par les ancêtres, les générations précédentes, et qui est considéré comme un héritage commun. Patrimoine archéologique, artistique, culturel, intellectuel, religieux; patrimoine collectif, national, social; patrimoine d'une nation, d'un peuple.      </p>
+         <br>
+	 <img src="../img/index.jpg" alt="" width=40% class="illust-art" />
+
+   </main>
+</body>
+
+</html>
