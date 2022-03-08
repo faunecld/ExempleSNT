@@ -114,8 +114,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":24,
          "firstgid":1065,
-         "source":"src\/assets\/Pipoya RPG Tileset 32x32\/eau.tsx"
+         "image":"src\/assets\/Pipoya RPG Tileset 32x32\/eau.png",
+         "imageheight":259,
+         "imagewidth":790,
+         "margin":0,
+         "name":"eau",
+         "spacing":0,
+         "tilecount":192,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":6,
