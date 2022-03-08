@@ -103,7 +103,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"src\/assets\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
+         "image":"..\/src\/assets\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -116,7 +116,7 @@
         {
          "columns":24,
          "firstgid":1065,
-         "image":"src\/assets\/Pipoya RPG Tileset 32x32\/eau.png",
+         "image":"..\/src\/assets\/Pipoya RPG Tileset 32x32\/eau.png",
          "imageheight":259,
          "imagewidth":790,
          "margin":0,
@@ -135,7 +135,7 @@
          "margin":1,
          "name":"Special_Zones",
          "spacing":2,
-         "tilecount":12,
+         "tilecount":1,
          "tileheight":32,
          "tiles":[
                 {
