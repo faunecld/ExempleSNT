@@ -236,12 +236,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":7,
          "firstgid":1065,
-         "source":"eau.tsx"
+         "image":"..\/groupe6\/eau.jpg",
+         "imageheight":225,
+         "imagewidth":225,
+         "margin":0,
+         "name":"eau",
+         "spacing":0,
+         "tilecount":49,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":23,
          "firstgid":1114,
-         "source":"32x32_map_tile v3.1.tsx"
+         "image":"32x32_map_tile v3.1.png",
+         "imageheight":958,
+         "imagewidth":760,
+         "margin":0,
+         "name":"32x32_map_tile v3.1",
+         "spacing":0,
+         "tilecount":667,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":8,
