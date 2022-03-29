@@ -236,17 +236,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":23,
          "firstgid":1065,
-         "image":"32x32_map_tile v3.1.png",
-         "imageheight":958,
-         "imagewidth":760,
-         "margin":0,
-         "name":"32x32_map_tile v3.1",
-         "spacing":0,
-         "tilecount":667,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"..\/src\/assets\/Pipoya RPG Tileset 32x32\/32x32_map_tile v3.1.tsx"
         }, 
         {
          "columns":8,
@@ -439,17 +430,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":7,
          "firstgid":10244,
-         "image":"..\/groupe6\/eau.jpg",
-         "imageheight":225,
-         "imagewidth":225,
-         "margin":0,
-         "name":"eau",
-         "spacing":0,
-         "tilecount":49,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"..\/src\/assets\/Pipoya RPG Tileset 32x32\/eau.tsx"
         }],
  "tilewidth":32,
  "type":"map",
