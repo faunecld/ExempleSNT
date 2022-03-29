@@ -1,0 +1,33 @@
+section
+{
+	border: solid;
+	display: flex;
+	flex-direction: row;
+}
+
+aside
+{
+    width: 25%;
+}
+article
+{
+    width: 70%;
+}
+header
+{
+
+	background: no-repeat url("Capture.PNG") ;
+	height: 300px;
+	width : 100%;
+}
+h1
+{
+	color: #745d55;
+}
+body
+{
+	background: linear-gradient(#ffffff, #afd6f3);
+}
+nav
+{
+}

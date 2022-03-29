@@ -1,58 +1,41 @@
-@font-face {
-   font-family: bubler-one;
-   src: url(../fonts/bubbler-one.ttf);
+section
+{
+	border: solid;
+	display: flex;
+	flex-direction: row;
 }
 
+aside
+{
+    width: 25%;
+}
+article
+{
+    width: 70%;
+}
+header
+{
 
-body {
-   margin: 0;
-   font-family: bubler-one;
-   max-width: 800px;
-   margin: 0 auto;
-}
-
-h1, p {
-   margin: 0;
-}
-.h1{
-   color: rgb(250, 111, 31);
-}
-h2{
-   color: rgb(8, 173, 214);
-}
-h3{
-   color: rgb(44, 184, 9);
-}
-ul {
-   list-style-type: none;
-   padding: 0;
-   margin: 0;
+	background: no-repeat url("../img/Capture.PNG") ;
+	height: 300px;
+	width : 100%;
+	#fond {
+width: 100%;
+height: 100%;
+position: absolute;
+left: 0px;
+top: 0px;
+z-index: 0;
 }
 
-a {
-   text-decoration: none;
-   color: black;
+h1
+{
+	color: #745d55;
 }
-
-.entete {
-   background-color: rgb(252, 129, 58);
-   display: flex;
-   flex-wrap: wrap;
-   padding: 10px 20px;
+body
+{
+	background: linear-gradient(#ffffff, #afd6f3);
 }
-
-.titre {
-   font-size: 4.4em;
-}
-
-.menu {
-   display: flex;
-   flex-wrap: wrap;
-}
-
-.menu-item {
-	font-family: bubler-one;
-   font-size: 1.9em;
-   margin: 0 10px;
-   color: white;
+nav
+{
 }

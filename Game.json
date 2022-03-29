@@ -155,6 +155,8 @@
                  "height":93,
                  "id":45,
                  "name":"entry_3",
+                 "offsetx":3.5,
+                 "offsety":-2,
                  "opacity":1,
                  "properties":[
                         {

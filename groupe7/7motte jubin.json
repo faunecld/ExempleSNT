@@ -64,6 +64,12 @@
  "nextlayerid":7,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"arza",
+         "type":"string",
+         "value":""
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
  "tileheight":32,
