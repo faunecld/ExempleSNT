@@ -130,7 +130,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"[Base]BaseChip_pipo.tsx"
+         "source":"[Base]BaseChip_pipo2.tsx"
         }],
  "tilewidth":32,
  "type":"map",
