@@ -5,6 +5,11 @@
  </editorsettings>
  <tileset firstgid="1" name="Special_Zones" tilewidth="32" tileheight="32" spacing="2" margin="1" tilecount="12" columns="6">
   <image source="Special_Zones.png" width="204" height="68"/>
+  <tile id="0">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
  </tileset>
  <tileset firstgid="13" name="[Base]BaseChip_pipo" tilewidth="32" tileheight="32" tilecount="1016" columns="8">
   <image source="[Base]BaseChip_pipo.png" width="256" height="4064"/>
