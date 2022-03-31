@@ -9,6 +9,7 @@ body {
    font-family: bubler-one;
    max-width: 800px;
    margin: 0 auto;
+   background-color: white;
 }
 
 h1, p {
@@ -18,15 +19,15 @@ h1, p {
    color: rgb(250, 111, 31);
 }
 h2{
-   color: rgb(250, 10, 10);
+   color: rgb(8, 173, 214);
 }
 h3{
-   color: rgb(250, 184, 9);
+   color: rgb(44, 184, 9);
 }
 ul {
    list-style-type: none;
-   padding: 10;
-   margin: 2;
+   padding: 0;
+   margin: 0;
 }
 
 a {
@@ -35,7 +36,7 @@ a {
 }
 
 .entete {
-   background-color: rgb(100,40,100);
+   background-color: rgb(252, 129, 58);
    display: flex;
    flex-wrap: wrap;
    padding: 10px 20px;
@@ -52,7 +53,7 @@ a {
 
 .menu-item {
 	font-family: bubler-one;
-   font-size: 3.9em;
-   margin: 1 50px;
+   font-size: 1.9em;
+   margin: 0 10px;
    color: white;
 }

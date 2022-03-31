@@ -9,6 +9,7 @@ body {
    font-family: bubler-one;
    max-width: 800px;
    margin: 0 auto;
+   background-color: white;
 }
 
 h1, p {
@@ -39,11 +40,10 @@ a {
    display: flex;
    flex-wrap: wrap;
    padding: 10px 20px;
-   font-size: 150%;
 }
 
 .titre {
-   font-size: 3em;
+   font-size: 4.4em;
 }
 
 .menu {
