@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/pageWeb\/HTML\/Autel_eglise_Saint-Gonlay.html"
+                 "value":"pageWeb\/HTML\/Autel_eglise_Saint-Gonlay.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/pageWeb\/HTML\/Entree_eglise.html"
+                 "value":"pageWeb\/HTML\/Entree_eglise.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/pageWeb\/HTML\/Entree_cimetiere .html"
+                 "value":"pageWeb\/HTML\/Entree_cimetiere.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -224,6 +224,15 @@
          "tilecount":1016,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":292,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
                 {
                  "id":434,
                  "properties":[
