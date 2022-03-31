@@ -6,7 +6,9 @@
  <tileset firstgid="1" name="Special_Zones" tilewidth="32" tileheight="32" spacing="2" margin="1" tilecount="12" columns="6">
   <image source="Special_Zones.png" width="204" height="68"/>
  </tileset>
- <tileset firstgid="13" source="[Base]BaseChip_pipo.tsx"/>
+ <tileset firstgid="13" name="[Base]BaseChip_pipo" tilewidth="32" tileheight="32" tilecount="1016" columns="8">
+  <image source="[Base]BaseChip_pipo.png" width="256" height="4064"/>
+ </tileset>
  <layer id="19" name="BLOQUE" width="20" height="20">
   <data encoding="csv">
 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
