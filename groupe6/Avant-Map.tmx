@@ -206,7 +206,7 @@
  </layer>
  <layer id="36" name="Exit1" width="20" height="20">
   <properties>
-   <property name="exitSceneUrl" value="/boutavent#entry-1"/>
+   <property name="exitSceneUrl" value="boutavent#entry-1"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -233,7 +233,7 @@
  </layer>
  <layer id="37" name="Exit2" width="20" height="20">
   <properties>
-   <property name="exitSceneUrl" value="/boutavent#entry-2"/>
+   <property name="exitSceneUrl" value="boutavent#entry-2"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -260,7 +260,7 @@
  </layer>
  <layer id="38" name="Exit3" width="20" height="20">
   <properties>
-   <property name="exitSceneUrl" value="/boutavent#entry-3"/>
+   <property name="exitSceneUrl" value="boutavent#entry-3"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -287,7 +287,7 @@
  </layer>
  <layer id="39" name="Exit4" width="20" height="20">
   <properties>
-   <property name="exitSceneUrl" value="/boutavent#entry-4"/>
+   <property name="exitSceneUrl" value="boutavent#entry-4"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
