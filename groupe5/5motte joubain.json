@@ -159,14 +159,23 @@
          "columns":8,
          "firstgid":1,
          "image":"..\/groupe9\/[Base]BaseChip_pipo.png",
-         "imageheight":4256,
+         "imageheight":4064,
          "imagewidth":256,
          "margin":0,
          "name":"[Base]BaseChip_pipo",
          "spacing":0,
-         "tilecount":1064,
+         "tilecount":1016,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":292,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
                 {
                  "id":434,
                  "properties":[
@@ -180,14 +189,14 @@
         }, 
         {
          "columns":8,
-         "firstgid":1065,
+         "firstgid":1017,
          "image":"..\/groupe9\/[Base]BaseChip_pipo.png",
-         "imageheight":4256,
+         "imageheight":4064,
          "imagewidth":256,
          "margin":0,
          "name":"[Base]BaseChip_pipo",
          "spacing":0,
-         "tilecount":1064,
+         "tilecount":1016,
          "tileheight":32,
          "tiles":[
                 {
