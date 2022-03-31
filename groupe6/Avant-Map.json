@@ -122,7 +122,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"boutavent#entry-1"
+                 "value":"boutavent.json#entry-1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -140,7 +140,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"boutavent#entry-2"
+                 "value":"boutavent.json#entry-2"
                 }],
          "type":"tilelayer",
          "visible":true,

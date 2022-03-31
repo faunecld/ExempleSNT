@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"boutavent.json"
+        }
+    },
  "height":35,
  "infinite":false,
  "layers":[
