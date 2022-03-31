@@ -262,7 +262,7 @@
          "name":"Toit",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -274,7 +274,7 @@
          "name":"fenetre",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -329,17 +329,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":8,
          "firstgid":1029,
-         "image":"[Base]BaseChip_pipo.png",
-         "imageheight":4064,
-         "imagewidth":256,
-         "margin":0,
-         "name":"[Base]BaseChip_pipo",
-         "spacing":0,
-         "tilecount":1016,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"[Base]BaseChip_pipo.tsx"
         }],
  "tilewidth":32,
  "type":"map",
