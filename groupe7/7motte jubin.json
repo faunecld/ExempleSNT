@@ -108,7 +108,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/pageWeb\/HTML\/patrimoine.html"
+                 "value":"pageWeb\/HTML\/patrimoine.html"
                 }],
          "type":"tilelayer",
          "visible":true,
