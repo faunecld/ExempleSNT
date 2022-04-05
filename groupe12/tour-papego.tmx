@@ -3,19 +3,7 @@
  <editorsettings>
   <export target="12tour-papego.json" format="json"/>
  </editorsettings>
- <tileset firstgid="1" name="[Base]BaseChip_pipo" tilewidth="32" tileheight="32" tilecount="1016" columns="8">
-  <image source="[Base]BaseChip_pipo.png" width="256" height="4064"/>
-  <tile id="292">
-   <properties>
-    <property name="collides" type="bool" value="true"/>
-   </properties>
-  </tile>
-  <tile id="434">
-   <properties>
-    <property name="collides" type="bool" value="true"/>
-   </properties>
-  </tile>
- </tileset>
+ <tileset firstgid="1" source="[Base]BaseChip_pipo.tsx"/>
  <layer id="12" name="website1" width="30" height="30">
   <properties>
    <property name="openWebsite" value="pageWeb/HTML/page2.html"/>
